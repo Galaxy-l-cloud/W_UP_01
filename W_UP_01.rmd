@@ -66,3 +66,4 @@ Based on the inferential data, the hypothesis is "if skill players performed mor
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
+The data presented supports that the position difference of line vs skill players greatly affects the performance of push ups recorded from both the line and skill players. We saw that the Skill players had performed 33 more push ups in 18 minutes over the line players which had an average of 17 in 6 minutes. the relationship between the two can be asserted to the time in which the push ups were performed and the position of these players.
