@@ -49,7 +49,10 @@ From observations the skill players seemed to perform more push ups than the lin
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
-
+```{r}
+favstats(pushups~position,data=mydata)
+```
+From observing the table, the line players had an average of push ups performed of 17. While the skill players had an average of 50.
 
 ## Inferential Results
 
